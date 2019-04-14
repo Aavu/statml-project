@@ -2,3 +2,5 @@ test_V2.csv
 train_V2.csv
 Kaggle.json
 sample_submission_V2.csv.zip
+.ipynb_checkpoints/
+.DS_Store
